@@ -1,0 +1,35 @@
+*{
+    font-family: 'cwTeXYen';
+    font-weight: 700;
+}
+.background{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1194px;
+    height: 834px;
+    background-color: #FFE9E9;
+}
+.leave{
+    position: absolute;
+    left: 1068px;
+    top: 70px;    
+}
+.back{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.tittle{
+    position: absolute;
+    left: 165px;
+    top: 124px;
+}
+.text{
+    position: absolute;
+    left: 350px;
+    top: 420px;
+    color: white;
+    font-size: 50px;
+    letter-spacing: 1px;
+}
